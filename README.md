@@ -145,3 +145,4 @@ It helps identify common security issues in extracted firmware filesystems.
 ## License
 
 This project is licensed under the MIT License.
+A simple IoT firmware security analysis tool for detecting weak passwords, backdoors and insecure services.
