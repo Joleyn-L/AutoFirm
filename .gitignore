@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.swp
+fake_firmware.extracted/
+report.txt
+report.html
